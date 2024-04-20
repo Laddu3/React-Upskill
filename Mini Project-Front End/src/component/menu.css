@@ -1,0 +1,42 @@
+.board{
+    display:flex;
+    justify-content: center;
+    background-color: yellow;
+    
+}
+       
+
+.tbl{
+    background-color: rgb(67, 67, 255);
+
+
+}
+.table{
+    
+    width: 100%;
+    text-align: center;
+
+
+}
+td{
+    padding: 10px;
+
+}
+
+.btn{
+   padding: 5px;
+    text-align: center;
+    margin-left: 10px;
+    background-color: rgb(255, 255, 0);
+}
+.button{
+    width: 100%;
+    
+
+    
+}
+button{
+
+    background-color: blue;
+   
+}
